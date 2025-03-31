@@ -146,7 +146,7 @@
 
   <!-- Contenedor del contenido -->
   <div class="content-container">
-    <h1>Trabajando....</h1>
+    <h1>Trabajando para ver cambios directo en el contenedor</h1>
     <table class="patient-table">
       <thead>
         <tr>
